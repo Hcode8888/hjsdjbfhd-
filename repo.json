@@ -1,0 +1,27 @@
+{
+  "name": "Glitch Repo Oficial",
+  "version": "1.0.0",
+  "author": "TheSthipOficial",
+  "description": "Plugins verificados y complementos para proyecto Scrapper.",
+  "url": "https://github.com/Hcode8888/hjsdjbfhd-",
+  "plugins": [
+    {
+      "slug": "glitch-tv-interface",
+      "name": "Glitch TV Interface",
+      "version": "1.0.0",
+      "author": "TheSthipOficial",
+      "description": "Interfaz Smart TV responsiva barra lateral compacta, buscador con eventos, esqueletos de carga, películas, series y eventos deportivos de GoalStream.",
+      "min_version": "1.0.4",
+      "download_url": "https://github.com/Hcode8888/hjsdjbfhd-/plugins/glitch-tv-interface.zip",
+    },
+    {
+      "slug": "glitch-droid-interface",
+      "name": "Glitch Droid Interface",
+      "version": "1.0.0",
+      "author": "TheSthipOficial",
+      "description": "Interfaz de entretenimiento optimizada para móviles: catálogo, deportes en vivo, favoritos, progreso y reproducción.",
+      "min_version": "1.0.4",
+      "download_url": "https://github.com/Hcode8888/hjsdjbfhd-/plugins/glitch-droid-interface.zip",
+    }
+  ]
+}
