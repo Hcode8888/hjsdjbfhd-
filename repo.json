@@ -12,7 +12,7 @@
       "author": "TheSthipOficial",
       "description": "Interfaz Smart TV responsiva barra lateral compacta, buscador con eventos, esqueletos de carga, películas, series y eventos deportivos de GoalStream.",
       "min_version": "1.0.4",
-      "download_url": "https://github.com/Hcode8888/hjsdjbfhd-/plugins/glitch-tv-interface.zip",
+      "download_url": "https://raw.githubusercontent.com/Hcode8888/hjsdjbfhd-/main/plugins/glitch-tv-interface.zip"
     },
     {
       "slug": "glitch-droid-interface",
@@ -21,7 +21,7 @@
       "author": "TheSthipOficial",
       "description": "Interfaz de entretenimiento optimizada para móviles: catálogo, deportes en vivo, favoritos, progreso y reproducción.",
       "min_version": "1.0.4",
-      "download_url": "https://github.com/Hcode8888/hjsdjbfhd-/plugins/glitch-droid-interface.zip",
+      "download_url": "https://raw.githubusercontent.com/Hcode8888/hjsdjbfhd-/main/plugins/glitch-droid-interface.zip"
     }
   ]
 }
